@@ -99,10 +99,9 @@ public class MainActivity extends ActionBarActivity {
     }
     public void changeTurn(View view) {
         TextView t = (TextView) findViewById(R.id.textView3);
+
         if(player == false) {
             t.setText("Player 2's turn");
-            t.setTextSize(30);
-            t.setTextColor(maroon);
             player = true;
         }
         else{
@@ -123,18 +122,17 @@ public class MainActivity extends ActionBarActivity {
         }
         if(ifAll() == true){
             if(player == false){
-                t.setText("Player 2 wins");
-            }
-            else{
                 t.setText("Player 1 wins");
             }
-            Button winner = new Button(this);
-            winner.setText("would you like to play again?");
+            else{
+                t.setText("Player 2 wins");
+            }
         }
     }
     public boolean ifAll(){
         boolean all = true;
-        for(int i = 0; i<15; i++){
+        for(int i = 0; i<13; i++){
+            Log.d("MainActivity", locked[i] + "");
             if(locked[i]== false){
                 all = false;
                 break;
@@ -166,6 +164,9 @@ public class MainActivity extends ActionBarActivity {
     }
 
     public void restartClick(View view) {
+        for(int i = 0; i<15;i++)
+            locked[i]=false;
+
         Intent intent = new Intent(this, MainActivity.class);
         startActivity(intent);
     }
