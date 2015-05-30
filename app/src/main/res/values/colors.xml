@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="nim_background">#FE9A3E</color>
+    <color name="nim_padding_background">#C36A0A</color>
+</resources>
