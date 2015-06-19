@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/ronald/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+<<<<<<< HEAD
+        <dex dex="/home/ronald/Desktop/NimApp/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-70ee26f911179fc19d5f4c565b314ad60ac3db02.jar" />
+    </item>
+    <item
+        jar="/home/ronald/Desktop/NimApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/home/ronald/Desktop/NimApp/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-a2ec845b60407c39934653fcbd8af42e67da7ac6.jar" />
+    </item>
+    <item
+        jar="/home/ronald/Desktop/NimApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/home/ronald/Desktop/NimApp/app/build/intermediates/pre-dexed/debug/classes-95cc8fb0e089ef4e8ac46bf0eb7298ad94dba93e.jar" />
+    </item>
+    <item
+        jar="/home/ronald/Desktop/NimApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/home/ronald/Desktop/NimApp/app/build/intermediates/pre-dexed/debug/classes-3ae627c55c7c4267cd29fb3885c179171fea6a46.jar" />
+=======
+        <dex dex="/home/ronald/Desktop/Nim_App-test/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-70ee26f911179fc19d5f4c565b314ad60ac3db02.jar" />
+    </item>
+    <item
+        jar="/home/ronald/Desktop/Nim_App-test/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/home/ronald/Desktop/Nim_App-test/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-dd1bef40cfd35cf62f6cc9720dac68f57e97e374.jar" />
+    </item>
+    <item
+        jar="/home/ronald/Desktop/Nim_App-test/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/home/ronald/Desktop/Nim_App-test/app/build/intermediates/pre-dexed/debug/classes-31c64dd92acfee196f87c74905cf995cef3829a1.jar" />
+    </item>
+    <item
+        jar="/home/ronald/Desktop/Nim_App-test/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/home/ronald/Desktop/Nim_App-test/app/build/intermediates/pre-dexed/debug/classes-4e96eb9dfad561c70df8a72689e296283098f7d6.jar" />
+>>>>>>> 0c46544ad7e4b642ed610514642b568800ce2aeb
+    </item>
+
+</items>
